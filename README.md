@@ -1,2 +1,2 @@
 # First-Order-Logic
-I will be documenting my journey in formal logic, prove
+I will be documenting my journey in formal logic and prove here.
